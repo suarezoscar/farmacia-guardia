@@ -18,7 +18,7 @@ interface Project {
   descriptionKey: string;
   url: string;
   routerLink?: string;
-  theme: 'green' | 'amber';
+  theme: 'green' | 'amber' | 'blue';
   status: 'live' | 'wip' | 'planned';
   tagKeys: string[];
   version?: string;
@@ -63,6 +63,15 @@ export class HomeComponent {
       status: 'live',
       tagKeys: ['tags.eventos', 'tags.whatsapp', 'tags.sin_registro'],
       version: PROJECT_VERSIONS['events'],
+    },
+    {
+      id: 'diplomacy',
+      nameKey: 'home.diplomacy_name',
+      descriptionKey: 'home.diplomacy_desc',
+      url: 'https://diplomacy.osplab.dev',
+      theme: 'blue',
+      status: 'live',
+      tagKeys: ['tags.diplomacy', 'tags.tablero', 'tags.estrategia'],
     },
   ];
 

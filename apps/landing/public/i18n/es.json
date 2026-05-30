@@ -10,7 +10,9 @@
     "farmacias_name": "Farmacias de Guardia",
     "farmacias_desc": "Encuentra las farmacias de guardia más cercanas a tu ubicación en tiempo real. Disponible en Galicia, Madrid y Barcelona — más provincias próximamente.",
     "events_name": "Eventos",
-    "events_desc": "Crea un evento, comparte el enlace en WhatsApp y deja que la gente se apunte. Sin registro, sin complicaciones."
+    "events_desc": "Crea un evento, comparte el enlace en WhatsApp y deja que la gente se apunte. Sin registro, sin complicaciones.",
+    "diplomacy_name": "Diplomacy Helper",
+    "diplomacy_desc": "Redacta y envía órdenes de Diplomacy. Todo el mundo las ve al mismo tiempo — con historial completo de cada movimiento."
   },
   "tags": {
     "salud": "Salud",
@@ -20,6 +22,9 @@
     "geo": "Geolocalización",
     "eventos": "Eventos",
     "whatsapp": "WhatsApp",
-    "sin_registro": "Sin registro"
+    "sin_registro": "Sin registro",
+    "diplomacy": "Diplomacia",
+    "tablero": "Juego de Mesa",
+    "estrategia": "Estrategia"
   }
 }

@@ -10,7 +10,9 @@
     "farmacias_name": "Duty Pharmacies",
     "farmacias_desc": "Find the nearest duty pharmacies to your location in real time. Available in Galicia, Madrid and Barcelona — more provinces coming soon.",
     "events_name": "Events",
-    "events_desc": "Create an event, share the link on WhatsApp and let people sign up. No registration, no hassle."
+    "events_desc": "Create an event, share the link on WhatsApp and let people sign up. No registration, no hassle.",
+    "diplomacy_name": "Diplomacy Helper",
+    "diplomacy_desc": "Draft and submit Diplomacy orders. Everyone sees them at the same time — with a full history of every move."
   },
   "tags": {
     "salud": "Health",
@@ -20,6 +22,9 @@
     "geo": "Geolocation",
     "eventos": "Events",
     "whatsapp": "WhatsApp",
-    "sin_registro": "No registration"
+    "sin_registro": "No registration",
+    "diplomacy": "Diplomacy",
+    "tablero": "Board Game",
+    "estrategia": "Strategy"
   }
 }

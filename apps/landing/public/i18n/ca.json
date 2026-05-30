@@ -10,7 +10,9 @@
     "farmacias_name": "Farmàcies de Guàrdia",
     "farmacias_desc": "Troba les farmàcies de guàrdia més properes a la teva ubicació en temps real. Disponible a Galícia, Madrid i Barcelona — més províncies properament.",
     "events_name": "Esdeveniments",
-    "events_desc": "Crea un esdeveniment, comparteix l'enllaç a WhatsApp i deixa que la gent s'apunti. Sense registre, sense complicacions."
+    "events_desc": "Crea un esdeveniment, comparteix l'enllaç a WhatsApp i deixa que la gent s'apunti. Sense registre, sense complicacions.",
+    "diplomacy_name": "Diplomacy Helper",
+    "diplomacy_desc": "Redacta i envia ordres de Diplomacy. Tothom les veu al mateix temps — amb historial complet de cada moviment."
   },
   "tags": {
     "salud": "Salut",
@@ -20,6 +22,9 @@
     "geo": "Geolocalització",
     "eventos": "Esdeveniments",
     "whatsapp": "WhatsApp",
-    "sin_registro": "Sense registre"
+    "sin_registro": "Sense registre",
+    "diplomacy": "Diplomàcia",
+    "tablero": "Joc de Tauler",
+    "estrategia": "Estratègia"
   }
 }
